@@ -5,6 +5,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import SignUp from './src/SignUp';
 import Routes from './src/Routes';
 
+
 const Stack = createNativeStackNavigator();
 const App = () => {
   return (
